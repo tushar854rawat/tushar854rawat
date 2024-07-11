@@ -3,6 +3,7 @@
 <h3 align="center">A tech enthusiast from India, Uttrakhand</h3>
 
 
+
 - 🌱 I’m currently learning **WEB DEV And MERN.**
 
 - 💬 Ask me about **DATA STRUCTURE AND ALOGRITHMS,AND TECH RELATED QUERIES.**
