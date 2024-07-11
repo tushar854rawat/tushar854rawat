@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
 <h3 align="center">A tech enthusiast from India, Uttrakhand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar854rawat&label=Profile%20views&color=0e75b6&style=flat" alt="tushar854rawat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar854rawat" alt="tushar854rawat" /></a> </p>
-
-
 
 - 🌱 I’m currently learning **WEB DEV And MERN.**
 
