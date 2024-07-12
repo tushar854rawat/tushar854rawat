@@ -8,8 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+TECH+ENTHUSIAST;++;LOVE+COMPUTER+SCIENCE,;MERN+STACK+DEVELOPER,;DATA+SCIENTIST,;LOVE+TO+WORK+WITH+OPEN+SOURCE"></a>
 </p>
 
-<p align="right"> <h3>Profile Views :-</h3> <img <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar854rawat&label=Profile%20views&color=0e75b6&style=flat" alt="tushar854rawat" /> </p>
-
 <br>
 
 - 🌱 I’m currently learning **WEB DEV And MERN.**
