@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Rawat</h1>
-<h3 align="center">A tech enthusiast from India, Uttrakhand</h3>
+<h3 align="center">A tech enthusiast from Uttrakhand, India</h3>
 
 <br>
 
